@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Control01_RicardoSoto</string>
+    <string-array name="platos">
+        <item>Pasta Carbonada</item>
+        <item>Papapleto</item>
+        <item>Salchipapa</item>
+
+
+    </string-array>
+</resources>
